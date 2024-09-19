@@ -1,16 +1,16 @@
 // ==UserScript==
 // @name         bili_optimizer
 // @namespace    http://tampermonkey.net/
-// @version      2023-12-10
+// @version      2024-09-19
 // @description  1.自动展开视频简介
 // @author       Han Shuwang
 // @match        https://www.bilibili.com/video/*
 // @match        https://www.bilibili.com/list/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
-// @license      GPL-3.0
+// @license      MIT
 // ==/UserScript==
-
+// 添加WEBHOOK
 (function() {
     'use strict';
 
